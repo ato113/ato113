@@ -41,15 +41,6 @@
 
 ---
 
-### 📊 İstatistikler
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ato113&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ato113&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 <p align="center">
   <a href="mailto:ceylanarda15@gmail.com"><img src="https://img.shields.io/badge/E--posta-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
