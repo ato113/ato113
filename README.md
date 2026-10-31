@@ -25,6 +25,7 @@
 - 🔭 **[foldersort](https://github.com/ato113/foldersort)** — klasörleri okunabilir kurallarla düzenleyen CLI aracı
 - 🔭 **[lockdiff](https://github.com/ato113/lockdiff)** — okunamayan lockfile diff'lerini incelenebilir bir özete çeviren GitHub Action
 - 🔭 **[quakefeed](https://github.com/ato113/quakefeed)** — AFAD, Kandilli ve USGS verisini tek bir API'de birleştiren servis
+- 🔭 **[binspect](https://github.com/ato113/binspect)** — ELF, PE ve Mach-O binary'lerini tek araçla çözümleyen güvenlik/tersine mühendislik aracı
 - 🌱 Açık kaynak araç geliştirme, dağıtık veri toplama ve CI/CD otomasyonu üzerine çalışıyorum
 - 💬 Python, Go, TypeScript, API tasarımı ve GitHub Actions konuşabiliriz
 - 🤝 Katkılara açığım — issue açmaktan çekinme
@@ -38,6 +39,7 @@
 | **[foldersort](https://github.com/ato113/foldersort)** | YAML kurallarıyla klasör düzenleyen CLI. Kuralları senin yerine yazıyor, dry-run gösteriyor, her işlemi geri alabiliyor | Python |
 | **[lockdiff](https://github.com/ato113/lockdiff)** | Lockfile değişikliklerini PR'da insan diliyle özetleyen GitHub Action. Major sürüm atlamalarını ve downgrade'leri öne çıkarıyor | TypeScript |
 | **[quakefeed](https://github.com/ato113/quakefeed)** | Üç deprem ağının (AFAD, Kandilli, USGS) farklı formatlardaki verisini normalleştirip aynı depremin raporlarını birleştiren HTTP servisi. Sıfır bağımlılık | Go |
+| **[binspect](https://github.com/ato113/binspect)** | ELF, PE ve Mach-O çalıştırılabilir dosyalarını çözümleyen araç: yapı, istismar azaltmaları (checksec), string'ler ve bölüm entropisi. Sıfır bağımlılık | Go |
 
 ---
 
