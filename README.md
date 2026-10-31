@@ -20,7 +20,7 @@
 
 ### 🚀 Şu an
 
-- 🔭 **[foldersort](https://github.com/ato113/tidy)** — klasörleri okunabilir kurallarla düzenleyen CLI aracı
+- 🔭 **[foldersort](https://github.com/ato113/foldersort)** — klasörleri okunabilir kurallarla düzenleyen CLI aracı
 - 🔭 **[lockdiff](https://github.com/ato113/lockdiff)** — okunamayan lockfile diff'lerini incelenebilir bir özete çeviren GitHub Action
 - 🌱 Açık kaynak araç geliştirme ve CI/CD otomasyonu üzerine çalışıyorum
 - 💬 Python, TypeScript, CLI tasarımı ve GitHub Actions konuşabiliriz
@@ -32,7 +32,7 @@
 
 | Proje | Ne işe yarar | Teknoloji |
 |-------|--------------|-----------|
-| **[foldersort](https://github.com/ato113/tidy)** | YAML kurallarıyla klasör düzenleyen CLI. Kuralları senin yerine yazıyor, dry-run gösteriyor, her işlemi geri alabiliyor | Python |
+| **[foldersort](https://github.com/ato113/foldersort)** | YAML kurallarıyla klasör düzenleyen CLI. Kuralları senin yerine yazıyor, dry-run gösteriyor, her işlemi geri alabiliyor | Python |
 | **[lockdiff](https://github.com/ato113/lockdiff)** | Lockfile değişikliklerini PR'da insan diliyle özetleyen GitHub Action. Major sürüm atlamalarını ve downgrade'leri öne çıkarıyor | TypeScript |
 
 ---
