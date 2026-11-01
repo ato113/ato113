@@ -26,6 +26,9 @@
 - 🔭 **[lockdiff](https://github.com/ato113/lockdiff)** — okunamayan lockfile diff'lerini incelenebilir bir özete çeviren GitHub Action
 - 🔭 **[quakefeed](https://github.com/ato113/quakefeed)** — AFAD, Kandilli ve USGS verisini tek bir API'de birleştiren servis
 - 🔭 **[binspect](https://github.com/ato113/binspect)** — ELF, PE ve Mach-O binary'lerini tek araçla çözümleyen güvenlik/tersine mühendislik aracı
+- 🔭 **[metascrub](https://github.com/ato113/metascrub)** — fotoğraf ve belgelerdeki gizli metadata'yı (GPS, yazar) gösteren ve silen araç
+- 🔭 **[shotsort](https://github.com/ato113/shotsort)** — ekran görüntülerini içeriklerine göre OCR ile adlandıran araç
+- 🔭 **[repograde](https://github.com/ato113/repograde)** — bir repo'nun ilk izlenimini puanlayan CLI
 - 🌱 Açık kaynak araç geliştirme, dağıtık veri toplama ve CI/CD otomasyonu üzerine çalışıyorum
 - 💬 Python, Go, TypeScript, API tasarımı ve GitHub Actions konuşabiliriz
 - 🤝 Katkılara açığım — issue açmaktan çekinme
@@ -40,6 +43,9 @@
 | **[lockdiff](https://github.com/ato113/lockdiff)** | Lockfile değişikliklerini PR'da insan diliyle özetleyen GitHub Action. Major sürüm atlamalarını ve downgrade'leri öne çıkarıyor | TypeScript |
 | **[quakefeed](https://github.com/ato113/quakefeed)** | Üç deprem ağının (AFAD, Kandilli, USGS) farklı formatlardaki verisini normalleştirip aynı depremin raporlarını birleştiren HTTP servisi. Sıfır bağımlılık | Go |
 | **[binspect](https://github.com/ato113/binspect)** | ELF, PE ve Mach-O çalıştırılabilir dosyalarını çözümleyen araç: yapı, istismar azaltmaları (checksec), string'ler ve bölüm entropisi. Sıfır bağımlılık | Go |
+| **[metascrub](https://github.com/ato113/metascrub)** | Paylaşmadan önce fotoğraf ve belgelerdeki gizli metadata'yı (GPS konumu, yazar, cihaz) gösteren ve silen araç. Sıfır bağımlılık | Go |
+| **[shotsort](https://github.com/ato113/shotsort)** | Ekran görüntülerini içlerindeki metne göre OCR ile anlamlı isimlere çeviren araç. Önizleme, geri alma | Python |
+| **[repograde](https://github.com/ato113/repograde)** | Bir repo'nun ilk izlenimini (README, lisans, test, CI, hijyen) puanlayıp yapılacaklar listesi veren CLI | TypeScript |
 
 ---
 
