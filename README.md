@@ -1,13 +1,15 @@
-<h1 align="center">Merhaba, ben Arda 👋</h1>
+<h1 align="center">Hi, I'm Arda 👋</h1>
+
+<p align="center"><i>English · <a href="README.tr.md">Türkçe</a></i></p>
 
 <p align="center">
-  Yazılım geliştirici · Açık kaynak meraklısı<br>
-  Günlük işleri kolaylaştıran, gerçekten kullanılan araçlar yazmayı seviyorum.
+  Software developer · Open-source enthusiast<br>
+  I like building tools that make everyday work easier — the kind people actually use.
 </p>
 
 ---
 
-### 🛠️ Kullandığım teknolojiler
+### 🛠️ Technologies I use
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -20,35 +22,35 @@
 
 ---
 
-### 🚀 Şu an
+### 🚀 What I'm working on
 
-- 🔭 **[foldersort](https://github.com/ato113/foldersort)** — klasörleri okunabilir kurallarla düzenleyen CLI aracı
-- 🔭 **[lockdiff](https://github.com/ato113/lockdiff)** — okunamayan lockfile diff'lerini incelenebilir bir özete çeviren GitHub Action
-- 🔭 **[quakefeed](https://github.com/ato113/quakefeed)** — AFAD, Kandilli ve USGS verisini tek bir API'de birleştiren servis
-- 🔭 **[binspect](https://github.com/ato113/binspect)** — ELF, PE ve Mach-O binary'lerini tek araçla çözümleyen güvenlik/tersine mühendislik aracı
-- 🔭 **[metascrub](https://github.com/ato113/metascrub)** — fotoğraf ve belgelerdeki gizli metadata'yı (GPS, yazar) gösteren ve silen araç
-- 🔭 **[shotsort](https://github.com/ato113/shotsort)** — ekran görüntülerini içeriklerine göre OCR ile adlandıran araç
-- 🔭 **[repograde](https://github.com/ato113/repograde)** — bir repo'nun ilk izlenimini puanlayan CLI
-- 🌱 Açık kaynak araç geliştirme, dağıtık veri toplama ve CI/CD otomasyonu üzerine çalışıyorum
-- 💬 Python, Go, TypeScript, API tasarımı ve GitHub Actions konuşabiliriz
-- 🤝 Katkılara açığım — issue açmaktan çekinme
+- 🔭 **[foldersort](https://github.com/ato113/foldersort)** — a CLI that organizes folders with rules you can read
+- 🔭 **[lockdiff](https://github.com/ato113/lockdiff)** — a GitHub Action that turns unreadable lockfile diffs into a review summary
+- 🔭 **[quakefeed](https://github.com/ato113/quakefeed)** — a service that merges AFAD, Kandilli and USGS earthquake data into one API
+- 🔭 **[binspect](https://github.com/ato113/binspect)** — a security / reverse-engineering tool for ELF, PE and Mach-O binaries
+- 🔭 **[metascrub](https://github.com/ato113/metascrub)** — shows and strips hidden metadata (GPS, author) from photos and documents
+- 🔭 **[shotsort](https://github.com/ato113/shotsort)** — renames screenshots by their content using OCR
+- 🔭 **[repograde](https://github.com/ato113/repograde)** — a CLI that grades a repository's first impression
+- 🌱 Working on open-source tooling, distributed data collection and CI/CD automation
+- 💬 Ask me about Python, Go, TypeScript, API design and GitHub Actions
+- 🤝 Open to contributions — don't hesitate to open an issue
 
 ---
 
-### 📌 Projeler
+### 📌 Projects
 
-| Proje | Ne işe yarar | Teknoloji |
-|-------|--------------|-----------|
-| **[foldersort](https://github.com/ato113/foldersort)** | YAML kurallarıyla klasör düzenleyen CLI. Kuralları senin yerine yazıyor, dry-run gösteriyor, her işlemi geri alabiliyor | Python |
-| **[lockdiff](https://github.com/ato113/lockdiff)** | Lockfile değişikliklerini PR'da insan diliyle özetleyen GitHub Action. Major sürüm atlamalarını ve downgrade'leri öne çıkarıyor | TypeScript |
-| **[quakefeed](https://github.com/ato113/quakefeed)** | Üç deprem ağının (AFAD, Kandilli, USGS) farklı formatlardaki verisini normalleştirip aynı depremin raporlarını birleştiren HTTP servisi. Sıfır bağımlılık | Go |
-| **[binspect](https://github.com/ato113/binspect)** | ELF, PE ve Mach-O çalıştırılabilir dosyalarını çözümleyen araç: yapı, istismar azaltmaları (checksec), string'ler ve bölüm entropisi. Sıfır bağımlılık | Go |
-| **[metascrub](https://github.com/ato113/metascrub)** | Paylaşmadan önce fotoğraf ve belgelerdeki gizli metadata'yı (GPS konumu, yazar, cihaz) gösteren ve silen araç. Sıfır bağımlılık | Go |
-| **[shotsort](https://github.com/ato113/shotsort)** | Ekran görüntülerini içlerindeki metne göre OCR ile anlamlı isimlere çeviren araç. Önizleme, geri alma | Python |
-| **[repograde](https://github.com/ato113/repograde)** | Bir repo'nun ilk izlenimini (README, lisans, test, CI, hijyen) puanlayıp yapılacaklar listesi veren CLI | TypeScript |
+| Project | What it does | Tech |
+|---------|--------------|------|
+| **[foldersort](https://github.com/ato113/foldersort)** | A CLI that organizes folders with YAML rules. Writes the rules for you, previews with dry-run, and every move is undoable | Python |
+| **[lockdiff](https://github.com/ato113/lockdiff)** | A GitHub Action that summarizes lockfile changes in a PR in plain language, surfacing major bumps and downgrades | TypeScript |
+| **[quakefeed](https://github.com/ato113/quakefeed)** | An HTTP service that normalizes three earthquake networks (AFAD, Kandilli, USGS) and merges reports of the same quake. Zero dependencies | Go |
+| **[binspect](https://github.com/ato113/binspect)** | Inspects ELF, PE and Mach-O executables: layout, exploit mitigations (checksec), strings and section entropy. Zero dependencies | Go |
+| **[metascrub](https://github.com/ato113/metascrub)** | Shows and strips the hidden metadata (GPS location, author, device) in photos and documents before you share them. Zero dependencies | Go |
+| **[shotsort](https://github.com/ato113/shotsort)** | Renames screenshots after the text inside them using OCR. Preview and undo | Python |
+| **[repograde](https://github.com/ato113/repograde)** | A CLI that grades a repo's first impression (README, license, tests, CI, hygiene) and gives a to-do list | TypeScript |
 
 ---
 
 <p align="center">
-  <a href="mailto:ceylanarda15@gmail.com"><img src="https://img.shields.io/badge/E--posta-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:ceylanarda15@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
